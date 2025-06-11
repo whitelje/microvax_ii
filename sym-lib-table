@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "microvax")(type "KiCad")(uri "${KIPRJMOD}/microvax.kicad_sym")(options "")(descr ""))
+)
