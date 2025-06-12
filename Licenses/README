@@ -1,0 +1,10 @@
+(c) 2025 Jake Whiteley
+Hardware design,  documentation,  and VHDL are licensed under CERN OHL v2 Strongly Reciprocal // CERN-OHL-S-2.0
+Software licensed under Mozilla Public License 2.0 // MPL-2.0
+Documentation and other collateral licensed as CC-BY-SA // CC-BY-SA-4.0
+
+Full name					                                    SPDX Identifier	OSI Approved	File name				URI
+=====================================================================================================================================================================
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal		CERN-OHL-S-2.0	Y				CERN-OHL-S-2.0.txt		https://spdx.org/licenses/CERN-OHL-S-2.0.html
+Mozilla Public License 2.0										MPL-2.0			Y				MPL-2.0.txt				https://spdx.org/licenses/MPL-2.0.html
+Creative Commons Attribution Share Alike 4.0 International		CC-BY-SA-4.0					CC-BY-SA-4.0.txt 		https://spdx.org/licenses/CC-BY-SA-4.0.html
