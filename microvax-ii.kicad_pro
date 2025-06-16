@@ -229,7 +229,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -411,6 +411,18 @@
     [
       "6666444c-8b31-4e18-90ea-32797d131916",
       "Root"
+    ],
+    [
+      "013da431-74a2-41de-bc74-1a0ff7f829eb",
+      "Sheet 1.1"
+    ],
+    [
+      "48c2f797-2fbf-4bc2-bbf5-b385531a209c",
+      "Address Latch Decode"
+    ],
+    [
+      "b8289a33-5318-4533-b2e4-e444f241e953",
+      "Memory Subsystem"
     ]
   ],
   "text_variables": {}
